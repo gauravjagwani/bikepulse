@@ -46,14 +46,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="hidden xl:flex">
-            <Image
-              src="/hero-bike.png
-
-            "
-              width={765}
-              height={480}
-              alt=""
-            />
+            <Image src="/hero-bike.png" width={765} height={480} alt="" />
           </div>
         </div>
       </div>
