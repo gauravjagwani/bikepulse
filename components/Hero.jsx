@@ -53,7 +53,6 @@ const Hero = () => {
               width={765}
               height={480}
               alt=""
-              quality={100}
             />
           </div>
         </div>
